@@ -84,6 +84,10 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP QN9020
+D IC RF TxRx Only Bluetooth Bluetooth v4.0 2.4GHz 48-VFQFN Exposed Pad
+$ENDCMP
+#
 $CMP RT9193
 D Low Dropout Regulators(LDO) Positive Fixed 5.5V 1.8V 300mA SOT-23-5 RoHS
 $ENDCMP
