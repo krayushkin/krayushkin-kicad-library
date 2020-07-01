@@ -74,6 +74,12 @@ K Voltage Regulator 500mA Positive
 F http://www.fairchildsemi.com/ds/LM/LM78M05.pdf
 $ENDCMP
 #
+$CMP LO03-10B05
+D Compact AC/DC board mount power module 5W 5V
+K AC/DC module power supply
+F http://www.hlktech.net/product_detail.php?ProId=54
+$ENDCMP
+#
 $CMP MFRC522
 F MFRC52202HN1,151
 $ENDCMP
