@@ -56,6 +56,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP EMI_Filter_CommonMode
+D EMI 2-inductor common mode filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
 $CMP KPTB-1615ESGC
 D Dual LED, cathodes on pins 2 and 4
 K LED diode bicolor dual
@@ -87,6 +93,12 @@ $ENDCMP
 $CMP OrangePI_PC_Connector
 D Generic connectable mounting pin connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
+F ~
+$ENDCMP
+#
+$CMP PLA10_Series
+D EMI 2-inductor filter
+K EMI filter
 F ~
 $ENDCMP
 #
