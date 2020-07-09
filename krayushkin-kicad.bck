@@ -50,6 +50,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP D_TVS
+D Bidirectional transient-voltage-suppression diode
+K diode TVS thyrector
+F SMF05CT1G
+$ENDCMP
+#
 $CMP Domo_Conn_01x06
 D Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector

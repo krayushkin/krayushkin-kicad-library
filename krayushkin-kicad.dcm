@@ -124,6 +124,12 @@ $CMP SLO0630H150MTT
 D Power Inductors 15uH ±20% 3A SMD,7.1x6.6x3mm RoHS
 $ENDCMP
 #
+$CMP SMF05CT1G
+D  transient-voltage-suppression diode
+K diode TVS thyrector
+F SMF05CT1G
+$ENDCMP
+#
 $CMP SMMS0650-3R3M
 D 3.3uH ±20% 8.5A 22mΩ 7.1*6.6*5.0
 $ENDCMP
