@@ -164,6 +164,11 @@ K ARM Cortex-M3 STM32F1 STM32F105/107
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00220364.pdf
 $ENDCMP
 #
+$CMP SYN470R
+D The SYN470R is a single chip ASK/OOK (ON-OFF Keyed) RF receiver IC
+K ASK OOK RF receiver
+$ENDCMP
+#
 $CMP TPA6211A1DGNR
 F TPA6211A1DGNR
 $ENDCMP
