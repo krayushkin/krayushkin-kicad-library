@@ -62,6 +62,11 @@ K EMI common mode filter
 F ~
 $ENDCMP
 #
+$CMP ES7144S
+D 10-pin, 24-Bit Stereo D/A Converter for PCM Audio
+K DAC
+$ENDCMP
+#
 $CMP KPTB-1615ESGC
 D Dual LED, cathodes on pins 2 and 4
 K LED diode bicolor dual
